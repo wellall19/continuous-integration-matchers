@@ -1,0 +1,13 @@
+{   
+    "root": true,
+    "env": {
+        "browser": true,
+        "es6": true,
+        "jest": true
+    },
+    "extends": "airbnb-base",
+    "parserOptions": {
+        "esmaVersion": 2018,
+        "sourceType": "module"
+    }
+}
